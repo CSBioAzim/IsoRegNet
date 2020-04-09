@@ -8,4 +8,4 @@ Infers gene and transcript isoform regulation by integrating RNA-seq, epi-genomi
 ![myimage-alt-tag](https://github.com/CSBioAzim/IsoRegNet/blob/master/Pipeline.png.001.jpeg)
 
 
-# Prepar input
+## Prepar input

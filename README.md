@@ -2,7 +2,7 @@
 
 
 
-I will complete this....
+I will complete this soon....
 
 Infers gene and transcript isoform regulation by integrating RNA-seq, epi-genomics data and isoform annotation.
 

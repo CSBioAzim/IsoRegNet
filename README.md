@@ -15,4 +15,8 @@ Infers gene and transcript isoform regulation by integrating RNA-seq, epi-genomi
 
 ## How to run IsoRegNet
 
+parameter | value | explanation 
+-----------|--------------|---------
+type | single/paired |  Denotes whether single-end or paired-end reads are used.
+
 ## Downstream analysis

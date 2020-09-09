@@ -1,10 +1,9 @@
 # IsoRegNet
+## Isoreg is currently in Beta and will be in active development through the peer review process.Isoreg is currently in Beta and will be in active development through the peer review process.
 
 
 
-I will complete this soon....
-
-Infers gene and transcript isoform regulation by integrating RNA-seq, epi-genomics data and isoform annotation.
+Isoreg is an algorithm and software tool for the modeling and analysis of transcript isoform regulation from paired epigenomics and transcritpomics data. It is designed to incorporate the isoform expression and annotation into the multi-task learning framework which allows learning the association between transcriptional and post-transcriptional regulators with genes or their associated isoforms.
 
 
 ![myimage-alt-tag](https://github.com/CSBioAzim/IsoRegNet/blob/master/Pipeline.png.001.jpeg)
